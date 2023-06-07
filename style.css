@@ -1,0 +1,10 @@
+.sctn{
+    background-image: url(img5.jpg);
+    background-position-x:right;
+}
+@media (min-width: 768px){
+    .news-input{
+        max-width: 50%;
+    }
+    
+}
